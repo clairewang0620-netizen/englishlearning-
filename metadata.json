@@ -1,0 +1,7 @@
+{
+  "name": "LingoMaster English SaaS",
+  "description": "A professional-grade English learning application featuring vocabulary cards, dictation exercises, and curated article reading with integrated TTS and interactive feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
